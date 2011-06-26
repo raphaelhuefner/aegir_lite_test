@@ -1,0 +1,10 @@
+*~
+.*.swp
+.DS_Store
+CVS
+.svn
+libraries/
+modules/contrib/
+modules/development/
+themes/*
+!themes/aegir_lite_test/
