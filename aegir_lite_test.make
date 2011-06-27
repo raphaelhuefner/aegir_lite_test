@@ -7,8 +7,14 @@ projects[admin][version] = "2.0"
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.2"
 
+projects[boxes][subdir] = "contrib"
+projects[boxes][version] = "1.0"
+
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.8"
+
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.0"
 
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2.9"
@@ -21,7 +27,7 @@ projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.15"
+projects[token][version] = "1.16"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "2.12"
@@ -33,7 +39,7 @@ projects[coder][subdir] = "development"
 projects[coder][version] = "2.0-beta1"
 
 projects[devel][subdir] = "development"
-projects[devel][version] = "1.23"
+projects[devel][version] = "1.24"
 
 projects[schema][subdir] = "development"
 projects[schema][version] = "1.7"
