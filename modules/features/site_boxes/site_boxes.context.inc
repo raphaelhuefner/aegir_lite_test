@@ -24,7 +24,7 @@ function site_boxes_context_default_contexts() {
         'boxes-testbox' => array(
           'module' => 'boxes',
           'delta' => 'testbox',
-          'region' => 'right',
+          'region' => 'left',
           'weight' => 0,
         ),
       ),

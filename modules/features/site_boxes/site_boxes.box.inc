@@ -10,7 +10,7 @@ function site_boxes_default_box() {
   $box->api_version = 1;
   $box->delta = 'testbox';
   $box->plugin_key = 'simple';
-  $box->title = 'Testbox';
+  $box->title = 'Toastbox';
   $box->description = 'My featurized Box';
   $box->options = array(
     'body' => 'Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. Test box body. Nothing useful. Only filler text. ',
