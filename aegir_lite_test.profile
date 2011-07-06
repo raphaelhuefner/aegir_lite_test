@@ -7,7 +7,7 @@
  *   An array of modules to enable.
  */
 function aegir_lite_test_profile_modules() {
-  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog');
+  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog', 'ctools', 'strongarm', 'features', 'site_boxes');
 }
 
 /**
